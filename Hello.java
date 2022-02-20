@@ -4,5 +4,6 @@ public class Hello{
   System.out.println("Hello World");
   System.out.println("First commit");
   System.out.println("After push");
+  System.out.println("Trying to push in branch2");
  }
 }
