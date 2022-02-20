@@ -5,5 +5,6 @@ public class Hello{
   System.out.println("First commit");
   System.out.println("After push");
   System.out.println("Final Commit in Master branch");
+  System.out.println("New Commit");
  }
 }
